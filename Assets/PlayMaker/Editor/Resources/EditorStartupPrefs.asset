@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -14,6 +14,6 @@ MonoBehaviour:
   welcomeScreenVersion: '1.9.0 '
   playmakerVersion: 
   showWelcomeScreen: 1
-  showUpgradeGuide: 0
-  lastAutoUpdateSignature: '2018.2.17f1__C:/Work/UnityProject/OITC_AR/Assets__ '
+  showUpgradeGuide: 1
+  lastAutoUpdateSignature: '2018.1.6f1__C:/_Git/OITC_AR/Assets__ '
   useLegacyNetworking: 0
