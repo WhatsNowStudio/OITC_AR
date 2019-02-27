@@ -6400,7 +6400,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 010101
-        actionIsOpen: 000000
+        actionIsOpen: 000101
         actionStartIndex: 000000000300000008000000
         actionHashCodes: 603dd905b2cf1000b2cf1000
         unityObjectParams: []
@@ -6729,7 +6729,7 @@ MonoBehaviour:
           name: FINISHED
           isSystemEvent: 1
           isGlobal: 0
-        toState: "\u662F\u5426\u958B\u555F"
+        toState: "\u8CC7\u6599\u524D\u7F6E"
         linkStyle: 0
         linkConstraint: 0
         colorIndex: 0
