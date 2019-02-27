@@ -133,7 +133,7 @@ GameObject:
   m_IsActive: 1
 --- !u!1 &1104199736395552
 GameObject:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
@@ -204,6 +204,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &1150438964478066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224755218972746972}
+  m_Layer: 5
+  m_Name: All
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &1166416645580344
 GameObject:
   m_ObjectHideFlags: 1
@@ -218,7 +233,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1167899018139004
 GameObject:
   m_ObjectHideFlags: 1
@@ -319,7 +334,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1312975499522202
 GameObject:
   m_ObjectHideFlags: 1
@@ -490,10 +505,10 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1435001977515586
 GameObject:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
@@ -630,7 +645,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1599464191713064
 GameObject:
   m_ObjectHideFlags: 1
@@ -645,7 +660,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1613762233472864
 GameObject:
   m_ObjectHideFlags: 1
@@ -769,7 +784,7 @@ GameObject:
   m_IsActive: 0
 --- !u!1 &1703309814153908
 GameObject:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
@@ -972,7 +987,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1888459775953682
 GameObject:
   m_ObjectHideFlags: 1
@@ -1654,10 +1669,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -2063,10 +2078,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -2539,10 +2554,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -3170,10 +3185,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -3652,10 +3667,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -3939,7 +3954,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.508142, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -6063,10 +6078,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -6217,7 +6232,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.508142, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -6553,10 +6568,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -6839,7 +6854,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.508142, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -7939,7 +7954,7 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1104199736395552}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -7950,7 +7965,7 @@ RectTransform:
   - {fileID: 224293648978368748}
   - {fileID: 224633736823747516}
   - {fileID: 224978779032390978}
-  m_Father: {fileID: 224622370301236878}
+  m_Father: {fileID: 224755218972746972}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
@@ -7964,14 +7979,14 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1435001977515586}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 224610906110924872}
   - {fileID: 224717316768526404}
   - {fileID: 224919859103681628}
-  m_Father: {fileID: 224622370301236878}
+  m_Father: {fileID: 224755218972746972}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
@@ -8534,7 +8549,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 133.36, y: -21.62}
+  m_AnchoredPosition: {x: 169.2, y: -20.7}
   m_SizeDelta: {x: 1500, y: 256}
   m_Pivot: {x: 0, y: 0}
 --- !u!224 &224620247933540900
@@ -8564,7 +8579,7 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1703309814153908}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -8575,7 +8590,7 @@ RectTransform:
   - {fileID: 224563508384924980}
   - {fileID: 224094127819916338}
   - {fileID: 224906417902026852}
-  m_Father: {fileID: 224622370301236878}
+  m_Father: {fileID: 224755218972746972}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -8593,9 +8608,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
-  - {fileID: 224112746531335368}
-  - {fileID: 224620363097827692}
-  - {fileID: 224109750559426568}
+  - {fileID: 224755218972746972}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -8733,6 +8746,27 @@ RectTransform:
   m_AnchoredPosition: {x: 136.5, y: -21.62}
   m_SizeDelta: {x: 1500, y: 256}
   m_Pivot: {x: 1, y: 0}
+--- !u!224 &224755218972746972
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1150438964478066}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224112746531335368}
+  - {fileID: 224620363097827692}
+  - {fileID: 224109750559426568}
+  m_Father: {fileID: 224622370301236878}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224809992620733914
 RectTransform:
   m_ObjectHideFlags: 1
@@ -8905,7 +8939,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -21.62}
-  m_SizeDelta: {x: 273, y: 256}
+  m_SizeDelta: {x: 351, y: 256}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!224 &224941644403524780
 RectTransform:
