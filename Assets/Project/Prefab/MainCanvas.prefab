@@ -1595,10 +1595,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     - name: Press
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -2375,10 +2375,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     - name: Press
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -2823,10 +2823,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     - name: Press
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -3406,10 +3406,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     - name: Press
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -4057,10 +4057,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     - name: Press
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -4561,10 +4561,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     - name: Press
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -7400,10 +7400,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     - name: Press
       isSystemEvent: 0
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -8260,7 +8260,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 136.5, y: -21.62}
-  m_SizeDelta: {x: 1500, y: 256}
+  m_SizeDelta: {x: 1800, y: 256}
   m_Pivot: {x: 1, y: 0}
 --- !u!224 &224271366353817338
 RectTransform:
@@ -9019,11 +9019,11 @@ RectTransform:
   m_Father: {fileID: 224893922282354666}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -1325.6, y: 0}
   m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0}
+  m_Pivot: {x: 1, y: 0}
 --- !u!224 &224801739173733888
 RectTransform:
   m_ObjectHideFlags: 1
