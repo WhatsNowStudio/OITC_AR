@@ -1531,7 +1531,7 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 1
               networkSync: 0
-              value: {fileID: 0}
+              value: {fileID: 1477111583338718}
           fsmName:
             useVariable: 1
             name: Fsm
@@ -1595,10 +1595,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -1630,7 +1630,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: {fileID: 0}
+        value: {fileID: 1477111583338718}
       objectVariables: []
       materialVariables: []
       textureVariables: []
@@ -1648,12 +1648,12 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
     EnableBreakpoints: 1
-    editorFlags: 1
+    editorFlags: 3
     activeStateName: 
     mouseEvents: 0
     handleLevelLoaded: 0
@@ -2311,7 +2311,7 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 1
               networkSync: 0
-              value: {fileID: 0}
+              value: {fileID: 1477111583338718}
           fsmName:
             useVariable: 1
             name: Fsm
@@ -2375,10 +2375,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -2410,7 +2410,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: {fileID: 0}
+        value: {fileID: 1477111583338718}
       objectVariables: []
       materialVariables: []
       textureVariables: []
@@ -2428,12 +2428,12 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
     EnableBreakpoints: 1
-    editorFlags: 1
+    editorFlags: 3
     activeStateName: 
     mouseEvents: 0
     handleLevelLoaded: 0
@@ -2759,7 +2759,7 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 1
               networkSync: 0
-              value: {fileID: 0}
+              value: {fileID: 1477111583338718}
           fsmName:
             useVariable: 1
             name: Fsm
@@ -2823,10 +2823,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -2858,7 +2858,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: {fileID: 0}
+        value: {fileID: 1477111583338718}
       objectVariables: []
       materialVariables: []
       textureVariables: []
@@ -2876,12 +2876,12 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
     EnableBreakpoints: 1
-    editorFlags: 1
+    editorFlags: 3
     activeStateName: 
     mouseEvents: 0
     handleLevelLoaded: 0
@@ -3342,7 +3342,7 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 1
               networkSync: 0
-              value: {fileID: 0}
+              value: {fileID: 1477111583338718}
           fsmName:
             useVariable: 1
             name: Fsm
@@ -3406,10 +3406,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -3441,7 +3441,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: {fileID: 0}
+        value: {fileID: 1477111583338718}
       objectVariables: []
       materialVariables: []
       textureVariables: []
@@ -3459,12 +3459,12 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
     EnableBreakpoints: 1
-    editorFlags: 1
+    editorFlags: 3
     activeStateName: 
     mouseEvents: 0
     handleLevelLoaded: 0
@@ -3993,7 +3993,7 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 1
               networkSync: 0
-              value: {fileID: 0}
+              value: {fileID: 1477111583338718}
           fsmName:
             useVariable: 1
             name: Fsm
@@ -4057,10 +4057,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -4092,7 +4092,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: {fileID: 0}
+        value: {fileID: 1477111583338718}
       objectVariables: []
       materialVariables: []
       textureVariables: []
@@ -4110,12 +4110,12 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
     EnableBreakpoints: 1
-    editorFlags: 1
+    editorFlags: 3
     activeStateName: 
     mouseEvents: 0
     handleLevelLoaded: 0
@@ -4497,7 +4497,7 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 1
               networkSync: 0
-              value: {fileID: 0}
+              value: {fileID: 1477111583338718}
           fsmName:
             useVariable: 1
             name: Fsm
@@ -4561,10 +4561,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -4596,7 +4596,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: {fileID: 0}
+        value: {fileID: 1477111583338718}
       objectVariables: []
       materialVariables: []
       textureVariables: []
@@ -4614,12 +4614,12 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
     EnableBreakpoints: 1
-    editorFlags: 1
+    editorFlags: 3
     activeStateName: 
     mouseEvents: 0
     handleLevelLoaded: 0
@@ -7336,7 +7336,7 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 1
               networkSync: 0
-              value: {fileID: 0}
+              value: {fileID: 1477111583338718}
           fsmName:
             useVariable: 1
             name: Fsm
@@ -7400,10 +7400,10 @@ MonoBehaviour:
       isGlobal: 0
     - name: Language_Select
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: Press
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Click
@@ -7435,7 +7435,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: {fileID: 0}
+        value: {fileID: 1477111583338718}
       objectVariables: []
       materialVariables: []
       textureVariables: []
@@ -7453,12 +7453,12 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
     EnableBreakpoints: 1
-    editorFlags: 1
+    editorFlags: 3
     activeStateName: 
     mouseEvents: 0
     handleLevelLoaded: 0
